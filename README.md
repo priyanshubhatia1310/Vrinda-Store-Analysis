@@ -28,7 +28,7 @@ Remove the unnecessary column from the table.
 
   ## Data visualization
 
-After analyzing the data, we have created a report/dashboard including all the visulation created at the time of analysis. Slicers have beenn created as month, channel and category.
+After analyzing the data, we have created a report/dashboard including all the visulation created at the time of analysis. Slicers have been created as month, channel and category.
 
 ## Project Outcome
 
