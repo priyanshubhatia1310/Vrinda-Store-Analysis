@@ -22,7 +22,7 @@ Remove the unnecessary column from the table.
 - Order vs sales: We analyze revenue and orders by month using pivot tables, and then we visualize the data.
 - Men vs Women- we analyze men and women sales using pivot tables, and then we visualize the data.
 - order status- we analyze the count of orders by order status and then we visualize it.
-- Top 5 Sales state: To get the 5 state =s that are doing well in sales.
+- Top 5 Sales state: To get the 5 states that are doing well in sales.
 - Age vs gender: To get  the percenatge of men and women that are adult, teenager nd senior.
 - Order vs channel: To get the number of orders that are placed on different channels
 
