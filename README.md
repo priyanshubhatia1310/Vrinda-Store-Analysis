@@ -1,1 +1,22 @@
 # Vrinda-Store-Analysis
+
+## Objective
+
+This project involved leveraging MS Excel to perform comprehensive data analysis and visualization. The primary objective was to analyze a dataset, extract meaningful insights, and present the results visually for clear communication.
+
+## Data Cleaning
+
+- Gender column: using the find and replace function M is substituted with Men, while W is replaced with Women.
+- Qty column : using the find and replace function One is replaced with 1, and two with 2.
+- Ship-city & Ship-state column: With the help of trim and Proper formulas, every text will be in lowercase, save for the initial letter.
+
+Remove the unnecessary column from the table.
+
+## Data Processing
+
+- Age_Group Colun: Using the age column in the table and the if condition formula, we split the age groups into adult, teenager, and senior.
+- Months - Extracted months from the date column using text formula.
+
+## Data anlaysis
+
+
